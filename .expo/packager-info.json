@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "expoServerNgrokUrl": "https://rb-w4d.anonymous.stellar-1.exp.direct",
+  "packagerNgrokUrl": "https://packager.rb-w4d.anonymous.stellar-1.exp.direct",
+  "ngrokPid": 22308,
+  "webpackServerPort": 19006,
+  "packagerPid": 9616
+}
